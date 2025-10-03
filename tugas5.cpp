@@ -24,7 +24,7 @@ int main ()
     } else if (chose==2){
     total=many*35000;
     } else {
-    cout << "                 GOBLOK"<< endl;
+    cout << "                 MAAF"<< endl;
     cout << "========================================="<<endl;
     return 0;
     }
